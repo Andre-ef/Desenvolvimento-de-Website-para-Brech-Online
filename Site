@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>O Senhor dos Pasteis</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+    <header>
+        <nav class="navbar">
+            <ul>
+                <li><a href="#sobre">Sobre</a></li>
+                <li><a href="#cardapio">Roupas</a></li>
+                <li><a href="#contato">Como nos contatar</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <secion>
+            <section id="sobre">
+                <div class="conteudo">
+                    <h3>🎀Sobre nós🎀</h3>
+                    <p>Somos um brachó humilde da periferia da cidade</p>
+
+                </div>
+                <div class="imagem">
+                    <img src="helenanobg.png">
+                </div>
+            </section>
+            <section id="cardapio">
+
+            </section>
+            <section id="contato">
+
+            </section>
+
+        </secion>
+    </main>
+    <footer class="rodape">
+        <p>&copy; 2025 - Brechó </p>
+    </footer>
+</body>
+
+</html>
