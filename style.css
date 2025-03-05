@@ -75,7 +75,7 @@ section{
     list-style: none;
     display: flex;
     justify-content: center;
-    gap: 32px;
+    gap: 250px;
 }
 
 .BarraDeCima a {
@@ -86,4 +86,12 @@ section{
 
 .BarraDeCima a:hover {
     color: purple;
+}
+
+.TextoBarraDeCima {
+
+    display: flex;
+    padding: 16px;
+    gap: 250px;
+
 }
