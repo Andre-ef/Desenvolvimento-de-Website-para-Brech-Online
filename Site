@@ -25,14 +25,12 @@
                 <div class="conteudo">
                     <h3>🎀Sobre nós🎀</h3>
                     <p>Somos um brachó humilde da periferia da cidade</p>
-
-                </div>
-                <div class="imagem">
-                    <img src="helenanobg.png">
-                </div>
             </section>
-            <section id="cardapio">
-
+            <section id="roupas">
+            </div>
+            <div class="imagem">
+                <img src="helenanobg.png">
+            </div>
             </section>
             <section id="contato">
 
@@ -41,7 +39,7 @@
         </secion>
     </main>
     <footer class="rodape">
-        <p>&copy; 2025 - Brechó </p>
+        <p>&copy; 2025 - Brechó dos humildes alunos de DS, os direitos pertencem exclusivamente a André E. F., Iago K. K., Rafael F. F. e Helena S. C.</p>
     </footer>
 </body>
 
